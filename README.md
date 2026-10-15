@@ -2,6 +2,12 @@
 
 适用于广东技术师范大学的比赛差旅与物品采购报销材料整理。处理多人代购、合住、优惠退款、合并结算和特殊行程，输出简洁的 Excel 汇总与易查阅的中文材料目录。
 
+## 分享给 agent
+
+将下面这段话发给 agent，并附上需要整理的报销资料：
+
+> 请读取这个仓库 https://github.com/zazuss/gpnu-reimbursement 的 SKILL.md 及其引用资料，按照里面的流程和表格风格，帮我整理广东技术师范大学的报销材料。
+
 ## 使用
 
 技能入口：[SKILL.md](SKILL.md)。将本仓库克隆或下载为 `gpnu-reimbursement` 文件夹，放进所用工具的技能目录。在 Codex 中可放到用户目录的 `.codex/skills/` 下，并在新会话中使用：
