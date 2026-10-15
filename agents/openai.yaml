@@ -1,0 +1,4 @@
+interface:
+  display_name: "广东技术师范大学报销指导"
+  short_description: "整理学校比赛差旅与采购报销材料，核对发票、实付、代购转账和特殊费用"
+  default_prompt: "使用 $gpnu-reimbursement 整理这些广东技术师范大学报销材料，生成流程、Excel汇总和缺项差异清单。"
